@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .range-numbers {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width:50%;
+    height: 300px;
+  }
+  
+  #numero-atual {
+    border: none;
+  }
+  
+  #numero-extenso {
+    border: none;
+  }
